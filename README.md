@@ -9,6 +9,10 @@ Official [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server 
 
 Unlike single-vendor MCP servers, one connection exposes the **entire ModelRunner catalog** — models from multiple AI providers behind one endpoint and one pay-per-use billing account. Your assistant can search the catalog, inspect a model's input schema, run inference, and get results back as hosted URLs directly in the conversation.
 
+> **Maintaining an open-source project?** ModelRunner gives active open-source
+> projects free monthly API credits — apply at
+> [modelrunner.ai/oss-program](https://modelrunner.ai/oss-program).
+
 ## Quick start
 
 ### Claude Code
